@@ -1,0 +1,1 @@
+# AiPlatforms-2305530-Task2-Fashion-MNIST-Data
